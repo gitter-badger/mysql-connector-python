@@ -64,3 +64,5 @@ license versions is made available with the language indicating
 that GPLv2 or any later version may be used, or where a choice 
 of which version of the GPL is applied is otherwise unspecified.
 
+
+Join the chat at https://gitter.im/geertjanvdk/mysql-connector-python
